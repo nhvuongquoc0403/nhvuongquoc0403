@@ -3,9 +3,9 @@
 
 I'm now studying Data Science at <a href="https://en.uit.edu.vn/" target="_blank">University of Information Technology - VNU</a> and looking for the good data. 😝
 
-[![Twitter: 43xquocnguyen]](https://twitter.com/43xquocnguyen)
-[![Linkedin: 43xquocnguyen]](https://www.linkedin.com/in/43xquocnguyen/)
-[![GitHub: 43xquocnguyen]](https://github.com/43xquocnguyen)
+[![Twitter: 43xquocnguyen]](https://twitter.com/43xquocnguyen) <br>
+[![Linkedin: 43xquocnguyen]](https://www.linkedin.com/in/43xquocnguyen/) <br>
+[![GitHub: 43xquocnguyen]](https://github.com/43xquocnguyen) <br>
 
 <p align="center">
 <a href= "https://www.facebook.com/43xquocnguyen" target="_blank"><img src="https://img.icons8.com/windows/32/000000/facebook.png"/></a>
