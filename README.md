@@ -1,5 +1,5 @@
 ## Hi there, I'm Nguyen Huynh Vuong Quoc 👋🏼💪🏼 Call me quocnguyen or coup
-<img src="https://i.imgur.com/m5Ie4P7.gif">
+<img align='center' src="https://i.imgur.com/m5Ie4P7.gif">
 
 I'm now studying Data Science at <a href="https://en.uit.edu.vn/" target="_blank">University of Information Technology - VNU</a> and looking for the good data. 😝
 
