@@ -10,8 +10,8 @@ I'm now studying Data Science at <a href="https://en.uit.edu.vn/" target="_blank
 <!-- <a href= "https://www.youtube.com/channel/UCIqWO9LadIMAj64ScRjvUkw" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a> -->
 <!-- </p> -->
 
-[Facebook](https://www.facebook.com/43quocnguyen)
-[Linkedin](https://www.linkedin.com/in/nhvuongquoc0403)
-[Twitter](https://twitter.com/nhvuongquoc0403)
-[Kaggle](https://www.kaggle.com/nhvuongquoc0403)
-[Youtube Channel](https://www.youtube.com/channel/UCIqWO9LadIMAj64ScRjvUkw)
+[Facebook](https://www.facebook.com/43quocnguyen) <br>
+[Linkedin](https://www.linkedin.com/in/nhvuongquoc0403) <br>
+[Twitter](https://twitter.com/nhvuongquoc0403) <br>
+[Kaggle](https://www.kaggle.com/nhvuongquoc0403) <br>
+[Youtube Channel](https://www.youtube.com/channel/UCIqWO9LadIMAj64ScRjvUkw) <br>
