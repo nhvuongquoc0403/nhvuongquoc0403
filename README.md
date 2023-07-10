@@ -1,6 +1,6 @@
 ## Hi there, I'm Nguyen Huynh Vuong Quoc 👋🏼💪🏼
 
-I'm now studying Data Science at <a href="https://en.uit.edu.vn/" target="_blank">University of Information Technology - VNU</a>. I'm an individual seeking wide-range knowledge and also looking for good data. 😝
+I'm now studying Data Science at <a href="https://en.uit.edu.vn/" target="_blank">University of Information Technology - VNUHCM, Vietnam</a>. I'm an individual seeking wide-range knowledge and also looking for good data. 😝
 
 <!-- <p align="center"> -->
 <!-- <a href= "https://www.facebook.com/43quocnguyen" target="_blank"><img src="https://img.icons8.com/windows/32/000000/facebook.png"/></a> -->
