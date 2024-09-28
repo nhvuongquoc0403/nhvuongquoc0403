@@ -2,17 +2,22 @@
 
 I'm now studying Data Science at <a href="https://en.uit.edu.vn/" target="_blank">University of Information Technology - VNUHCM, Vietnam</a>. I'm an individual seeking wide-range knowledge and also looking for good data. 😝
 
-<!-- <p align="center"> -->
-<!-- <a href= "https://www.facebook.com/43quocnguyen" target="_blank"><img src="https://img.icons8.com/windows/32/000000/facebook.png"/></a> -->
-<!-- <a href= "https://www.linkedin.com/in/quocnguyenx43/" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a> -->
-<!-- <a href= "https://twitter.com/quocnguyenx43" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a> -->
-<!-- <a href= "https://www.kaggle.com/quocnguyenx43" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/kaggle.png"/></a> -->
-<!-- <a href= "https://www.youtube.com/channel/UCIqWO9LadIMAj64ScRjvUkw" target="_blank"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a> -->
-<!-- </p> -->
 
-You can reach me at:
-- [Facebook](https://www.facebook.com/43quocnguyen) <br>
-- [Linkedin](https://www.linkedin.com/in/quocnguyenx43) <br>
-- [Twitter](https://twitter.com/quocnguyenx43) <br>
-- [Kaggle](https://www.kaggle.com/quocnguyenx43) <br>
-- [Youtube Channel](https://www.youtube.com/channel/UCIqWO9LadIMAj64ScRjvUkw) (Coming soon ...) <br>
+You can connect with me on:
+
+**Professional Contact:**
+
+- [Gmail](quocnguyenx43@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/quocnguyenx43)
+
+**Social Media:**
+
+- [Facebook](https://www.facebook.com/43xquocnguyen)
+- [Instagram](https://www.instagram.com/alannguyen_0403)
+- [Threads](https://www.threads.net/alannguyen_0403)
+- [Twitter](https://twitter.com/quocnguyenx43)
+
+**Other Platforms:**
+
+- [Kaggle](https://www.kaggle.com/quocnguyenx43)
+- [YouTube Channel](https://www.youtube.com/channel/UCIqWO9LadIMAj64ScRjvUkw) (Coming soon ...)
