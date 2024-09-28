@@ -1,4 +1,4 @@
-## Hi there, I'm Nguyen Huynh Vuong Quoc 👋🏼💪🏼
+## Hi there, I'm Vuong-Quoc Nguyen Huynh👋🏼💪🏼
 
 I'm now studying Data Science at <a href="https://en.uit.edu.vn/" target="_blank">University of Information Technology - VNUHCM, Vietnam</a>. I'm an individual seeking wide-range knowledge and also looking for good data. 😝
 
@@ -15,4 +15,4 @@ You can reach me at:
 - [Linkedin](https://www.linkedin.com/in/quocnguyenx43) <br>
 - [Twitter](https://twitter.com/quocnguyenx43) <br>
 - [Kaggle](https://www.kaggle.com/quocnguyenx43) <br>
-- [Youtube Channel](https://www.youtube.com/channel/UCIqWO9LadIMAj64ScRjvUkw) <br>
+- [Youtube Channel](https://www.youtube.com/channel/UCIqWO9LadIMAj64ScRjvUkw) (Coming soon ...) <br>
