@@ -7,7 +7,7 @@ You can connect with me on:
 
 **Professional Contact:**
 
-- [Gmail](quocnguyenx43@gmail.com)
+- [Gmail](mailto:quocnguyenx43@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/quocnguyenx43)
 
 **Social Media:**
